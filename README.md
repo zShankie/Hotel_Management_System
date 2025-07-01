@@ -52,12 +52,6 @@ python Hotel_Management.py
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here later if needed._
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
