@@ -1,19 +1,19 @@
-# Hotel Management System 🏨
+# Hotel Management System 
 
 A simple **console-based Python project** that simulates basic hotel operations like room booking, payments, and maintaining records. Built during the first year of college as part of learning foundational Python programming concepts.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📅 Book rooms with check-in/check-out dates
-- 💳 Process payments via simulated modes
-- 📋 View all booking records
-- 🔐 Validates duplicate entries and handles simple edge cases
+- Book rooms with check-in/check-out dates
+- Process payments via simulated modes
+- View all booking records
+- Validates duplicate entries and handles simple edge cases
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: Python 3
 - **Interface**: Console / Terminal
@@ -21,7 +21,7 @@ A simple **console-based Python project** that simulates basic hotel operations 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Hotel_Management_System/
@@ -31,7 +31,7 @@ Hotel_Management_System/
 
 ---
 
-## 🧪 Getting Started
+## Getting Started
 
 To run the project locally, follow these steps:
 
@@ -48,11 +48,11 @@ cd Hotel_Management_System
 python Hotel_Management.py
 ```
 
-📝 Make sure Python is installed and added to your system PATH.
+Make sure Python is installed and added to your system PATH.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 © 2025 Shashaank Viswanathan
